@@ -7,8 +7,8 @@
 |---|---|
 |Jan| JAX, HuggingFace, PineCone, GNNs|
 |Feb| GitHub deepdive / refresher |
-|Mar - April| Rust !!! |
-|May| Ubuntu + CUDA / JAX |
+|Mar - April| Rust !!!, LangChain |
+|May| Ubuntu + CUDA , JAX |
   
 </details>
 
