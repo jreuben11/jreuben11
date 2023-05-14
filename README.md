@@ -5,9 +5,10 @@
        
 |Month| focus |
 |---|---|
-|Jan| Jax, HuggingFace, PineCone, GNNs|
-|Feb| GitHub deepdive / refresher, Jupyter internals |
-|Mar| Rust !!! |
+|Jan| JAX, HuggingFace, PineCone, GNNs|
+|Feb| GitHub deepdive / refresher |
+|Mar - April| Rust !!! |
+|May| Ubuntu + CUDA / JAX |
   
 </details>
 
