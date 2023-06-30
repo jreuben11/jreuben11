@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <details open>
+  [my CV](JoshReuben_CV.pdf)
   <summary>my 2023 study plan</summary>
        
 |Month| focus |
