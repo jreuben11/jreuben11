@@ -9,6 +9,9 @@
 |Feb| GitHub deepdive / refresher |
 |Mar - April| Rust !!!, LangChain |
 |May| Ubuntu + CUDA , JAX |
+|June - August| JAX Transformers|
+|Sept| Rust, MLIR |
+|Oct - Dec| CUDA + NVidia SDKs|
   
 </details>
 
