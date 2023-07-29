@@ -11,10 +11,11 @@
 |Jan| JAX, HuggingFace, PineCone, GNNs|
 |Feb| GitHub deepdive / refresher |
 |Mar - April| Rust !!!, LangChain |
-|May| Ubuntu + CUDA , JAX |
-|June - August| JAX Transformers|
+|May| RTX4090 setup (Ubuntu + CUDA , JAX) |
+|June - July| JAX Transformers|
+|August| Reinforcement Learning|
 |Sept| Rust, MLIR |
-|Oct - Dec| CUDA + NVidia SDKs|
+|Oct - Dec| AVX SIMD, CUDA + NVidia SDKs|
   
 </details>
 
