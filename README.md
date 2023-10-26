@@ -14,8 +14,8 @@
 |May| RTX4090 setup (Ubuntu + CUDA , JAX) |
 |June - July| JAX Transformers|
 |August| Reinforcement Learning|
-|Sept| Rust, MLIR |
-|Oct - Dec| AVX SIMD, CUDA + NVidia SDKs|
+|Sept - Oct| Keras Core, TensorRT, Linear Algebra, Multivariate Calculus |
+|Nov - Dec| AVX SIMD, CUDA + NVidia SDKs|
   
 </details>
 
