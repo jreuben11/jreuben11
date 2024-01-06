@@ -4,18 +4,23 @@
 
 <details open>
   
-  <summary>my 2023 study plan</summary>
+  <summary>my 2024 study plan</summary>
        
 |Month| focus |
 |---|---|
-|Jan| JAX, HuggingFace, PineCone, GNNs|
-|Feb| GitHub deepdive / refresher |
-|Mar - April| Rust !!!, LangChain |
-|May| RTX4090 setup (Ubuntu + CUDA , JAX) |
-|June - July| JAX Transformers|
-|August| Reinforcement Learning|
-|Sept - Oct| Keras Core, TensorRT, Linear Algebra, Multivariate Calculus |
-|Nov - Dec| AVX SIMD, CUDA + NVidia SDKs|
+|Jan - Feb:| CUDA|
+|March:| SIMD AVX|
+|April (passover break):| Intermediate Rust - Tokio, PyO3, WASM, Data Structures and Algorithms|
+|May:| VSCode Internals, Jupyter Internals|
+|June:| Graph Representational Learning|
+|July:| Wikimedia, semantic grammers, Spacy|
+|Aug:| some linux internals - LXC, systemd, boot process|
+|Sept: |modern webdev - Svelte, Deno, React-Three-Fiber|
+|Oct:| JAX NumPyro, Scipy|
+|Nov:| C++ CGAL|
+|Dec:| LLVM / MLIR|
+
+
   
 </details>
 
