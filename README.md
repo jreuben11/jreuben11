@@ -8,7 +8,7 @@
        
 |Month| focus |
 |---|---|
-|Jan - Feb:| CUDA|
+|Jan - Feb:| Blender python, CUDA|
 |March - April (passover break):| Intermediate Rust - Bindgen, RUstonomicon, CXX, Tokio, PyO3, WASM, Data Structures and Algorithms|
 |May:| VSCode Internals, Jupyter Internals, SIMD AVX|
 |June:| Graph Representational Learning|
