@@ -9,9 +9,8 @@
 |Month| focus |
 |---|---|
 |Jan - Feb:| CUDA|
-|March:| SIMD AVX|
-|April (passover break):| Intermediate Rust - Tokio, PyO3, WASM, Data Structures and Algorithms|
-|May:| VSCode Internals, Jupyter Internals|
+|March - April (passover break):| Intermediate Rust - Bindgen, RUstonomicon, CXX, Tokio, PyO3, WASM, Data Structures and Algorithms|
+|May:| VSCode Internals, Jupyter Internals, SIMD AVX|
 |June:| Graph Representational Learning|
 |July:| Wikimedia, semantic grammers, Spacy|
 |Aug:| some linux internals - LXC, systemd, boot process|
