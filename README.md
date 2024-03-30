@@ -9,7 +9,7 @@
 |Month| focus |
 |---|---|
 |Jan - Feb:| Blender python, CUDA|
-|March - April (passover break):| Intermediate Rust - Bindgen, RUstonomicon, CXX, Tokio, PyO3, WASM, Data Structures and Algorithms|
+|March - April (passover break):| Intermediate Rust - Bindgen, Rustonomicon, RataTUI, CXX, Tokio, PyO3, WASM, Data Structures and Algorithms|
 |May:| VSCode Internals, Jupyter Internals, SIMD AVX|
 |June:| Graph Representational Learning|
 |July:| Wikimedia, semantic grammers, Spacy|
