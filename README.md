@@ -47,9 +47,8 @@ Here are some ideas to get you started:
 - **GOFAI / Algorithms**: Search, Planning, Probabilistic Logic, Semantic MediaWiki / SparQL, Spacy NLP,  SKLearn classic ML, Causality / Bayesian Inference
 - **Misc**: AGI + Philosophy, Mathematics, Program Synthesis, Protein Structural Bioinformatics
 ## Currently self-learning: 
-- **Rust** !!!
 - **Advanced AI + Mathematics**: Graph Neural Nets, Numerical Methods, Monte Carlo Sampling, Stochastic Calculus, Numpyro,  Differential Geometry, NeRFs, Tensorflow Lite, MediaPipe, JAX ecosystem
-- **Rust (intermediate level)**: WASM, Py03, Tokio, CXX, Algorithms, Macros
+- **Rust (intermediate level)**: unsafe / FFI, Bindgen, RataTUI, WASM, Py03, Tokio, CXX, Algorithms, Macros
 - **CUDA + NVidia SDKs**: Triton, TensorRT-LLM, NeMo, DeepStream, Isaac
 - **Compilers**: LLVM, MLIR, OpenXLA
 - **3D**: Vulkan, Blender API, WebGPU, glTF, Omniverse
