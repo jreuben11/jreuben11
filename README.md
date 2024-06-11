@@ -10,11 +10,11 @@
 |---|---|
 |Jan - Feb:| Blender python, CUDA|
 |March - April (passover break):| Intermediate Rust - Bindgen, Rustonomicon, RataTUI, CXX, Tokio, PyO3, WASM, Data Structures and Algorithms|
-|May:| VSCode Internals, Jupyter Internals, SIMD AVX|
-|June:| Graph Representational Learning|
-|July:| Wikimedia, semantic grammers, Spacy|
-|Aug:| some linux internals - LXC, systemd, boot process|
-|Sept: |modern webdev - Svelte, Deno, React-Three-Fiber|
+|May:| Rust Leptos, Rust Macros, Zero to Production in Rust |
+|June:|Rust Bevy, NeoVim, I3, Kitty|
+|July:| EBPF, Aya, DataFusion, Polars|
+|Aug:| SIMD |
+|Sept: |C++ refresher, CMake|
 |Oct:| JAX NumPyro, Scipy|
 |Nov:| C++ CGAL|
 |Dec:| LLVM / MLIR|
