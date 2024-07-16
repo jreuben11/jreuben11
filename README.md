@@ -11,10 +11,10 @@
 |Jan - Feb:| Blender python, CUDA|
 |March - April (passover break):| Intermediate Rust - Bindgen, Rustonomicon, RataTUI, CXX, Tokio, PyO3, WASM, Data Structures and Algorithms|
 |May:| Rust Leptos, Rust Macros, Zero to Production in Rust |
-|June:|Rust Bevy, NeoVim, I3, Kitty|
-|July:| EBPF, Aya, DataFusion, Polars|
-|Aug:| SIMD |
-|Sept: |C++ refresher, CMake|
+|June:|Rust Bevy, NeoVim, Kitty|
+|July:| Rust SeaORM, EBPF, Aya, DataFusion, Polars; Debezium|
+|Aug:| Rust internals, more NeoVim |
+|Sept: |C++ refresher, CMake, SIMD|
 |Oct:| JAX NumPyro, Scipy|
 |Nov:| C++ CGAL|
 |Dec:| LLVM / MLIR|
@@ -41,6 +41,13 @@ Here are some ideas to get you started:
 # Skills
 ## Engineering Leadership: 
 - Team management, planning, mentoring & training, code-review,  remote outsource coordination
+## Rust: 
+- **foundations**: std, cargo, rustc, async, design patterns, data structures & algorithms
+-  **Macros**
+- **FFI**: unsafe, Bindgen, Py03, CXX
+- **RataTUI**
+- **Bevy** ECS game engine
+-  **fullstack**: Tokio + Axum / Tonic, SeaORM + SQLX, Leptos, Tracing
 ## Artificial Intelligence: 
 - **Deep Learning**: Transformers, Reinforcement Learning, Math foundations, MLOps pipelines, GenAI
 - **SDKs**: JAX, TensorFlow, HuggingFace, LangChain, Ray + RLLib
@@ -48,11 +55,10 @@ Here are some ideas to get you started:
 - **Misc**: AGI + Philosophy, Mathematics, Program Synthesis, Protein Structural Bioinformatics
 ## Currently self-learning: 
 - **Advanced AI + Mathematics**: Graph Neural Nets, Numerical Methods, Monte Carlo Sampling, Stochastic Calculus, Numpyro,  Differential Geometry, NeRFs, Tensorflow Lite, MediaPipe, JAX ecosystem
-- **Rust (intermediate level)**: unsafe / FFI, Bindgen, RataTUI, WASM, Py03, Tokio, CXX, Algorithms, Macros
 - **CUDA + NVidia SDKs**: Triton, TensorRT-LLM, NeMo, DeepStream, Isaac
 - **Compilers**: LLVM, MLIR, OpenXLA
 - **3D**: Vulkan, Blender API, WebGPU, glTF, Omniverse
-- **Internals**: Linux, VSCode, Jupyter, CPython, eBPF, ELF dissasembly, AVX SIMD, GTK, Wayland
+- **Internals**: Linux, NVim, Jupyter, CPython, eBPF, ELF dissasembly, AVX SIMD, GTK, Wayland
 ## Architectural Technologies: 
 - **WebDev FullStack**: TypeScript, React, Redux, NextJs, Deno, CSS, WebPack, Apollo + GraphQL
 - **Modern C++**: CMake, HPC {MPI, OpenMP}, JNI + NDK, Qt, JVM project Panama FFM, Cython
