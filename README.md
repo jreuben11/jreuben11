@@ -13,7 +13,7 @@
 |May:| Rust Leptos, Rust Macros, Zero to Production in Rust |
 |June:|Rust Bevy, NeoVim, Kitty|
 |July:| Rust SeaORM, DataFusion, Effective Rust; terminal Foo, Vulkan|
-|Aug:| Rust internals, LazyVim, eBPF, WASM, Hyprland |
+|Aug:| Rust internals, LazyVim, eBPF, WASM, WebGPU, Hyprland |
 |Sept: |C++ refresher, CMake, SIMD|
 |Oct:| JAX NumPyro, Scipy|
 |Nov:| C++ CGAL|
