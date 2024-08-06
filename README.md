@@ -12,8 +12,8 @@
 |March - April (passover break):| Intermediate Rust - Bindgen, Rustonomicon, RataTUI, CXX, Tokio, PyO3, WASM, Data Structures and Algorithms|
 |May:| Rust Leptos, Rust Macros, Zero to Production in Rust |
 |June:|Rust Bevy, NeoVim, Kitty|
-|July:| Rust SeaORM, EBPF, Aya, DataFusion, Polars; Debezium|
-|Aug:| Rust internals, more NeoVim |
+|July:| Rust SeaORM, DataFusion, Effective Rust; terminal Foo, Vulkan|
+|Aug:| Rust internals, LazyVim, eBPF, WASM, Hyprland |
 |Sept: |C++ refresher, CMake, SIMD|
 |Oct:| JAX NumPyro, Scipy|
 |Nov:| C++ CGAL|
