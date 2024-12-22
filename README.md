@@ -14,10 +14,10 @@
 |June:|Rust Bevy, NeoVim, Kitty|
 |July:| Rust SeaORM, DataFusion, Effective Rust; terminal Foo, Vulkan|
 |Aug:| Rust internals, LazyVim, eBPF, WASM, WebGPU, Hyprland |
-|Sept: |C++ refresher, CMake, SIMD|
-|Oct:| JAX NumPyro, Scipy|
-|Nov:| C++ CGAL|
-|Dec:| LLVM / MLIR|
+|Sept: |Java refresher, Binary Analysis|
+|Oct:| Prompt Engineering |
+|Nov:| C++ 17/20, CMake|
+|Dec:| AWS certification|
 
 
   
